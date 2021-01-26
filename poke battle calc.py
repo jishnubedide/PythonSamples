@@ -3,6 +3,7 @@ x=int()
 y=int()
 z=int()
 print('choose a starter')
+#comment line for git test
 #starter=input('''press:-
                     #1)A for charmander
                     #2)B for squirtle
